@@ -64,22 +64,6 @@
          ]
      }},
 
-    {"name": "halikarnassus",
-     "a": {"resource": "L",
-         "stages": [
-            {"requirements": "CC", "points": 3},
-            {"requirements": "OOO", "custom": "discard"},
-            {"requirements": "LL", "points": 7}
-         ]
-     },
-     "b": {"resource": "L",
-         "stages": [
-            {"requirements": "OO", "points": 2, "custom": "discard"},
-            {"requirements": "CCC", "points": 1, "custom": "discard"},
-            {"requirements": "GPL", "custom": "discard"}
-         ]
-     }},
-
     {"name": "olympia",
      "a": {"resource": "W",
          "stages": [
